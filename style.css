@@ -1,0 +1,72 @@
+:root {
+    --nav: #f8f9fa; /* Azul */
+    --text_nav: #495057
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+p {
+    color: #495057;
+}
+.proyecto{
+    border: solid 1px;
+    color: #495057;
+    border-radius: 5px;
+    padding: 0;
+}
+.lenguaje{
+    background-color: #f8f9fa;
+    color: #495057;
+    width: -webkit-fill-available;
+    border: hidden;
+    border-bottom: solid 1px;
+}
+.selector{
+
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lenguajeSelect{
+
+    border-bottom: hidden;
+}
+
+.nav{
+    background-color: var(--nav) !important;
+    color: var(--text_nav)!important;
+    padding-left:  1rem;
+    padding-right: 1rem;
+}
+
+.navbar>ul>li>a{
+    color: var(--text_nav)!important;
+}
+.navbar>ul>li>a:hover:focus{
+    color: var(--text_nav)!important;
+    background-color: var(--nav) !important;
+}
+.navbar>a{
+    color: var(--text_nav)!important;
+}
+.navbar>a:hover:focus{
+    color: var(--text_nav)!important;
+    background-color: var(--nav) !important;
+}
+
+.btn-pro{
+    color:var(--nav);
+    background-color: var(--text_nav);
+}
+
+.btn-pro:hover,.btn-pro:hover:focus{
+    color:var(--nav);
+    background-color: var(--text_nav);
+}

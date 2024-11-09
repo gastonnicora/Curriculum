@@ -1,6 +1,6 @@
 :root {
-    --nav: #f8f9fa; /* Azul */
-    --text_nav: #495057
+    --nav: #f8f9fa;
+    --text_nav: #495057;
 }
 
 body {
@@ -66,6 +66,7 @@ p {
 .btn-pro{
     background-color:var(--nav);
     color: var(--text_nav);
+    text-shadow:.5px 0.5px #495057f0
 }
 
 .btn-pro:hover,.btn-pro:hover:focus{

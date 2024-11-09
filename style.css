@@ -28,10 +28,12 @@ p {
     border-bottom: solid 1px;
 }
 .selector{
-
-    margin-top: 1rem;
+    margin-top: 2rem;
     display: flex;
     justify-content: space-around;
+    position: sticky;
+    top: 59px;
+    z-index: 2;
 }
 
 .lenguajeSelect{
@@ -62,11 +64,11 @@ p {
 }
 
 .btn-pro{
-    color:var(--nav);
-    background-color: var(--text_nav);
+    background-color:var(--nav);
+    color: var(--text_nav);
 }
 
 .btn-pro:hover,.btn-pro:hover:focus{
-    color:var(--nav);
-    background-color: var(--text_nav);
+    background-color:var(--nav);
+    color: var(--text_nav);
 }

@@ -1,9 +1,16 @@
 <div class="container">
 <h4>Vue</h4>
-<p>Esta es la interfaz de usuario de la aplicación, desarrollada con Vue.js. Permite a los usuarios interactuar de manera dinámica y fluida con el sistema, ofreciendo una experiencia de usuario rica y responsiva.</p>
+<p>
+    Esta es la interfaz de usuario de la aplicación, desarrollada con Vue.js. 
+    Permite a los usuarios interactuar de manera dinámica y fluida con el sistema, 
+    ofreciendo una experiencia de usuario rica y responsiva.
+</p>
 
 <h5>Objetivos</h5>
-<p>El objetivo era crear una interfaz intuitiva que facilite la navegación y el acceso a las funcionalidades del sistema, conectándose con la API para obtener y mostrar datos en tiempo real.</p>
+<p>
+    El objetivo era crear una interfaz intuitiva que facilite la navegación y el acceso a las 
+    funcionalidades del sistema, conectándose con la API y el servidor Socket para obtener y mostrar datos en tiempo real.
+</p>
 
 <h5>Características Clave</h5>
 <ul>
@@ -17,8 +24,16 @@
 <p>Vue.js, Vue Router, Vuex, Socket.io, Docker.</p>
 
 <h5>Desafíos y Soluciones</h5>
-<p>Uno de los desafíos fue garantizar que las actualizaciones en tiempo real se reflejaran de manera eficiente en la interfaz. Para abordar esto, implementé un sistema de escucha de eventos utilizando Socket.io que permite recibir datos en tiempo real y actualizar la vista de forma dinámica.</p>
-<p>Además, enfrenté problemas con <code>socket.io-client</code> para conectar con el servidor. Para solucionar esto, decidí utilizar un CDN de Socket.io, lo que simplificó la configuración y mejoró la estabilidad de la conexión.</p>
+<p>
+    Uno de los desafíos fue garantizar que las actualizaciones en tiempo real se reflejaran de manera 
+    eficiente en la interfaz. Para abordar esto, implementé un sistema de escucha de eventos utilizando 
+    Socket.io que permite recibir datos en tiempo real y actualizar la vista de forma dinámica.
+</p>
+<p>
+    Además, enfrenté problemas con <code>socket.io-client</code> para conectar con el servidor. 
+    Para solucionar esto, decidí utilizar un CDN de Socket.io, lo que simplificó la configuración y 
+    mejoró la estabilidad de la conexión.
+</p>
 
 <h5>Próximos Pasos</h5>
 <p>Planeo agregar más funcionalidades:

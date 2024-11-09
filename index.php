@@ -5,7 +5,7 @@
 
        
         <div class="mt-4">
-            <a href="proyectos.php" class="btn btn-pro">Ver Proyectos</a>
+            
         </div>
     </div>
     <?php include 'headers/footer.php'?>

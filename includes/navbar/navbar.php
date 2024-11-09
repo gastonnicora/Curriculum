@@ -20,6 +20,11 @@
                 </a>
             </li>
         </ul>
+        <ul class=" navbar-nav">
+            <li>
+            <a href="proyectos.php" class="btn btn-pro" class="">Proyectos</a>
+            </li>
+        </ul>
 
     </nav>
 <script>

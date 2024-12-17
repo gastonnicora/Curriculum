@@ -25,6 +25,6 @@
     </ul>
 </p>
 
-<p>Link del repositorio: <a href="https://github.com/gastonnicora/Socket.git">GitHub</a></p>
-<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-socket">Docker Hub</a></p>
+<p>Link del repositorio: <a href="https://github.com/gastonnicora/Socket.git" target="_blank" >GitHub</a></p>
+<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-socket" target="_blank">Docker Hub</a></p>
 </div>

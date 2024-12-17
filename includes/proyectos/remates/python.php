@@ -60,6 +60,6 @@
     </ul>
 </p>
 
-<p>Link del repositorio: <a href="https://github.com/gastonnicora/Python.git">GitHub</a></p>
-<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-python">Docker Hub</a></p>
+<p>Link del repositorio: <a href="https://github.com/gastonnicora/Python.git" target="_blank">GitHub</a></p>
+<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-python" target="_blank">Docker Hub</a></p>
 </div>

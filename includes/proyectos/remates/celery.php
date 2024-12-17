@@ -31,6 +31,6 @@
 <p>Planeo agregar más funcionalidades, como una interfaz de usuario para visualizar las tareas en tiempo real y mejorar la gestión de errores.</p> -->
 
 
-<p>Link del repositorio: <a href="https://github.com/gastonnicora/Celery.git">GitHub</a></p>
-<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-celery">Docker Hub</a></p>
+<p>Link del repositorio: <a href="https://github.com/gastonnicora/Celery.git" target="_blank">GitHub</a></p>
+<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-celery" target="_blank">Docker Hub</a></p>
 </div>

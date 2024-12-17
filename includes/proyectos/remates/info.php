@@ -1,7 +1,9 @@
 <div class="container">
     <h3>Remates</h3>
     <p>Página web donde las empresas rematan sus artículos y los usuarios pujan por ellos.</p>
-    <p>El proyecto está planeado para correr en Docker. Consta de una API RESTful en Flask (puerto 400) que muestra todos los entry points, un servidor que ejecuta tareas asíncronas con Celery (puerto 5555) y un cliente en Vue (puerto 80).</p>
+    <p>El proyecto está planeado para correr en Docker. Consta de una API RESTful en Flask (puerto 400)
+         que muestra todos los entry points, un servidor que ejecuta tareas asíncronas con 
+         Celery (puerto 5555) ,un servidor WebSocket para la comunicación en tiempo real y un cliente en Vue (puerto 80).</p>
 
     <h5>Objetivos</h5>
     <p>Crear una pagina web funcional que me permita demostrar mis conocimientos en programación web</p>

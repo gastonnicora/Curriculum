@@ -42,6 +42,6 @@
     </ul>
 </p>
 
-<p>Link del repositorio: <a href="https://github.com/gastonnicora/Vue.git">GitHub</a></p>
-<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-vue">Docker Hub</a></p>
+<p>Link del repositorio: <a href="https://github.com/gastonnicora/Vue.git" target="_blank">GitHub</a></p>
+<p>Link de la imagen Docker: <a href="https://hub.docker.com/r/gastonnicora/remates-vue" target="_blank">Docker Hub</a></p>
 </div>
